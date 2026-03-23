@@ -131,26 +131,6 @@ Business logic is separated from the Streamlit interface, and the system is prim
 
 ---
 
-## Screenshots
-
-### Executive Summary
-
-![Executive Summary](path/to/executive-summary.png)
-
-### Strategy Lab
-
-![Strategy Lab](path/to/strategy-lab.png)
-
-### Inventory & Cash Risk
-
-![Inventory & Cash Risk](path/to/inventory-cash-risk.png)
-
-### Supply Chain Optimizer
-
-![Supply Chain Optimizer](path/to/supply-chain-optimizer.png)
-
----
-
 ## How to Run Locally
 
 ```bash
